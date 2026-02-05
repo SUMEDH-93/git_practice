@@ -1,1 +1,3 @@
-# git_practice
+ # git_practice
+ this is my git repository
+ 
